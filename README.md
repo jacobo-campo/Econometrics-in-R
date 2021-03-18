@@ -1,4 +1,4 @@
-# Econometrics
+# Econometrics in R
 
 This repository includes different R scripts (with the data used) for the study and application of different topics from the study of Econometrics.
 Among the topics you will find:
